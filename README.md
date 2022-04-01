@@ -70,9 +70,9 @@
 <a href="https://codepen.io/ahmed-m-abdelfatah/collections/public" target="_blank">
 <img src="images/codepen.svg" alt="codepen" width="40" height="40"/>
 </a>
-</p> -->
+</p> --> 
 
-### Main focus this year
+** Main focus this year **
 
 `01` [Leetcode](https://github.com/ahmed-m-abdelfatah/leetcode)
 `02` [Data-Structure](https://github.com/ahmed-m-abdelfatah/Data-Structure)
