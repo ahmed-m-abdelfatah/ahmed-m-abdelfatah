@@ -74,5 +74,5 @@
 
 ## Main focus this year
 
-[Leetcode](https://github.com/ahmed-m-abdelfatah/leetcode)
-[Data-Structure](https://github.com/ahmed-m-abdelfatah/Data-Structure)
+`01` [Leetcode](https://github.com/ahmed-m-abdelfatah/leetcode)
+`02` [Data-Structure](https://github.com/ahmed-m-abdelfatah/Data-Structure)
