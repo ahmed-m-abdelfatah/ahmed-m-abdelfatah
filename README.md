@@ -40,9 +40,9 @@
 
 <hr>
 
-<p align="center"> 
+<p align="center">
 <a href="https://github.com/ahmed-m-abdelfatah" target="_blank"><img src="https://komarev.com/ghpvc/?username=ahmed-m-abdelfatah&label=Profile%20views&color=00968f&style=flat-square" alt="visitors" /></a>
-</p> 
+</p>
 
 <p align="center">
 <a href="https://github.com/ahmed-m-abdelfatah" target="_blank">
@@ -60,7 +60,7 @@
 
 <hr> -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://twitter.com/ahmed_mo1300" target="_blank">
 <img src="images/twitter.svg" alt="twitter" width="40" height="40"/>
 </a>
@@ -69,8 +69,10 @@
 </a>
 <a href="https://codepen.io/ahmed-m-abdelfatah/collections/public" target="_blank">
 <img src="images/codepen.svg" alt="codepen" width="40" height="40"/>
-</a>  
-</p>
+</a>
+</p> -->
 
-## running projects
-[x] react
+## Main focus this year
+
+[Leetcode](https://github.com/ahmed-m-abdelfatah/leetcode)
+[Data-Structure](https://github.com/ahmed-m-abdelfatah/Data-Structure)
