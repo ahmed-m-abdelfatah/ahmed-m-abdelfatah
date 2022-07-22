@@ -74,11 +74,11 @@
 
 **Main focus this year**
 
-- `01` [Leetcode](https://github.com/ahmed-m-abdelfatah/leetcode)
-- `02` [Data-Structure](https://github.com/ahmed-m-abdelfatah/Data-Structure)
+`01` [Leetcode](https://github.com/ahmed-m-abdelfatah/leetcode)\
+`02` [Data-Structure](https://github.com/ahmed-m-abdelfatah/Data-Structure)
 
 **Some of my achievements**
 
-- `01` [flutter-course-abdullah-mansour](https://github.com/ahmed-m-abdelfatah/flutter-course-abdullah-mansour)
-- `02` [Route_Frontend_Course_C37](https://github.com/ahmed-m-abdelfatah/Route_Frontend_Course_C37)
-- `03` [Route_Backend_Course_C37](https://github.com/ahmed-m-abdelfatah/Route_Backend_Course_C37)
+`01` [flutter-course-abdullah-mansour](https://github.com/ahmed-m-abdelfatah/flutter-course-abdullah-mansour)\
+`02` [Route_Frontend_Course_C37](https://github.com/ahmed-m-abdelfatah/Route_Frontend_Course_C37)\
+`03` [Route_Backend_Course_C37](https://github.com/ahmed-m-abdelfatah/Route_Backend_Course_C37)\
